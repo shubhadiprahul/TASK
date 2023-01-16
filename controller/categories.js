@@ -100,7 +100,7 @@ exports.SendMail = async(req,res) => {
         port: 587,
         auth:{
             user:"shubhadip20@navgurukul.org",
-            pass:"ShUBh@@08"
+            pass:"1234567890"
         }
     })
 
